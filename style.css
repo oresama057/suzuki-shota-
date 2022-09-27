@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background-color: cyan;
+}
+
+header {
+    position: relative;
+    padding-left: 100px;
+}
+
+nav {
+  position: absolute ; 
+  top:0;
+  right:100px;
+}
+
+.lists{
+    display: flex;
+    color:crimson;
+    list-style-type: none;  
+    text-align: center;
+}
+
+.list {
+    color:royalblue;
+    padding-right:  50px;
+    font-weight: bold;
+    font-size:  20px;
+}
+
+.introductions{
+    padding-top: 50px;
+    padding-left:100px;
+}
+.introduction{
+    display: flex;
+}
+
+.shota{
+padding-left: 50px;
+text-align: left;
+}
+
+.img{
+width:  300px;
+}
+
+.text{
+    width:90%;
+}
+
+.intros{
+padding-left:50px;    
+}
+
+.intro{
+font-size:25px;
+ text-align: center;
+}
+
+.anchan{
+    width:500px;
+}
+
+.chan{
+    width:500px;
+}
+
+.lose{
+    width:500px;
+}
+
+.gggg{
+    width:500px;
+}
+
+.cc{
+text-align: center;
+}
+
+.sss{
+    width:500px;
+}
